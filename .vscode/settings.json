@@ -1,0 +1,19 @@
+{
+	"git.ignoreLimitWarning": true,
+	"editor.wordWrap": "on",
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+	"editor.defaultFormatter": "vscode.configuration-editing",
+	"editor.insertSpaces": false,
+	"editor.highlightActiveIndentGuide": false,
+	"editor.detectIndentation": false,
+	"editor.renderIndentGuides": false,
+	"html.format.indentInnerHtml": true,
+	"html.format.indentHandlebars": true,
+	"editor.wrappingIndent": "none",
+	"workbench.tree.renderIndentGuides": "none",
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.formatOnSave": true
+}

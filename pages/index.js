@@ -12,12 +12,12 @@ export default function Home() {
 					<h1 className={ classes.mainTitle }>Home</h1>
 					<ul className={ classes.list }>
 						<li>
-							<Link href="/formulario">
+							<Link href="/registros">
 								<a className={ classes.link }>Registros</a>
 							</Link>
 						</li>
 						<li>
-							<Link href="/registros">
+							<Link href="/cadastrar">
 								<a className={ classes.link }>Cadastrar</a>
 							</Link>
 						</li>

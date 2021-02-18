@@ -1,6 +1,8 @@
 import Head from 'next/head';
 import Link from 'next/link';
 
+import Formulario from './../../components/form';
+
 import styles from '../../styles/styles';
 
 export default function Cadastrar() {
@@ -26,6 +28,7 @@ export default function Cadastrar() {
 			</Head>
 
 			<main >
+				<Formulario></Formulario>
 			</main >
 
 			<footer >

@@ -1,9 +1,9 @@
 import Head from 'next/head';
 import Link from 'next/link';
 
-import styles from './../../styles/styles';
+import styles from '../../styles/styles';
 
-export default function Registros() {
+export default function Cadastrar() {
 	const classes = styles();
 	return (
 		<div className={ classes.container }>
